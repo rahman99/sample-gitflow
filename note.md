@@ -33,3 +33,4 @@
 6. merging ke master.
     selanjutnya adalah push ke branch master.
 7. coba buat file baru (misal note release 0.2)
+8. buat fitur baru di note release 0.2 kemudian lakukan release
