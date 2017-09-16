@@ -8,3 +8,4 @@
 2. maka akan switch ke feature/feature_0.2
 3. sekarang finish feature baru ini.
 4. maka hasilnya akan di merge ke branch develop.
+5. tambah feature update di note 02
