@@ -5,4 +5,4 @@
     ```sh
     $ git flow feature start feature release 0.2
     ```
-2. 
+2. maka akan switch ke feature/feature_0.2
